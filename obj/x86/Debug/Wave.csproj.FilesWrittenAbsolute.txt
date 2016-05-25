@@ -1,0 +1,5 @@
+/Users/Ibok/Projects/Wave/Wave/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Ibok/Projects/Wave/Wave/bin/Debug/Wave.exe.mdb
+/Users/Ibok/Projects/Wave/Wave/bin/Debug/Wave.exe
+/Users/Ibok/Projects/Wave/Wave/obj/x86/Debug/Wave.exe
+/Users/Ibok/Projects/Wave/Wave/obj/x86/Debug/Wave.exe.mdb
